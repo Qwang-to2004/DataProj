@@ -12,7 +12,7 @@ Disease Prevalence: The analysis commenced with a comparison of disease prevalen
 Expenditure to GDP Ratio: A detailed examination of the total expenditure as a percentage of GDP was conducted from 2000 to 2015 for both developed and developing nations. Plotly visualizations were employed to display these trends, illustrating expenditure over GDP patterns over the years.
 Comparative Analysis:
 The project delved into comparative assessments between developed and developing countries concerning:
-Total Expenditure and GDP percentage between average life expectancy: Visualizations were crafted to compare the total percentage of expenditure and GDP trends from 2000 to 2015 and the average global life expectancy, highlighting the differences and similarities and how they affect life expectancy in general.
+Total Expenditure and GDP percentage between average life expectancy: Visualizations were crafted to compare the total percentage of expenditure to GDP trends from 2000 to 2015 and the average global life expectancy, highlighting the differences and similarities and how they affect life expectancy in general.
 Life Expectancy Distribution: A comparative boxplot analysis was executed, discerning life expectancy distributions across developed, developing, and the overall population. This visualization provided insights into disparities among different categories.
 Correlation Analysis:
 A circular correlation heatmap was generated to depict correlations among various factors influencing life expectancy. This visualization facilitated an understanding of the relationships between key indicators such as population, disease prevalence, healthcare expenditure, GDP, and education.
